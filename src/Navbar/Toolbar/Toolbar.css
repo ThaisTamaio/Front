@@ -1,0 +1,130 @@
+.toolbar {
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  height: 100px;
+  border-bottom: 2px solid var(--gray);
+  margin-bottom: 1rem;
+}
+
+.toolbar_navigator {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 1rem;
+}
+
+.toolbar_logo {
+  margin-left: 1rem;
+  width: 230px;
+}
+
+.toolbar_logo img {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.toolbar_navigation-items ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.toolbar_navigation-center ul {
+  justify-content: center;
+}
+
+.toolbar_navigation-center li {
+  padding: 0 5% !important;
+}
+
+.toolbar_navigation-items li {
+  white-space: nowrap;
+  padding: 0 1.5rem;
+}
+
+.toolbar_navigation-items a,
+.toolbar_navigation-items button {
+  color: var(--black);
+  text-decoration: none;
+  font-size: 1.25rem;
+  /* center vertically */
+  display: flex;
+  align-items: center;
+  height: 100%;
+  
+  /* remove default button styles */
+  background:none;
+  border:none;
+}
+
+.toolbar_navigation-center {
+  width: 100%;
+}
+
+.toolbar_navigation-items a:hover,
+.toolbar_navigation-items a:active,
+.toolbar_navigation-items button:hover,
+.toolbar_navigation-items button:active {
+  color: var(--blue);
+}
+
+.toolbar-user-button {
+  border: 1px solid var(--gray);
+  border-radius: 10px;
+  padding: 0.08rem 1rem !important;
+}
+
+.toolbar-user-button a {
+  color: var(--blue);
+}
+
+.toolbar-settings-button a {
+  font-size: 2rem;
+}
+
+.toolbar-user-button a:hover,
+.toolbar-user-button a:active {
+  color: var(--black);
+}
+
+@media screen and (max-width: 991px) {
+  .toolbar_navigation-center {
+    display: none;
+  }
+
+  .toolbar_navigation-items ul {
+    justify-content: center;
+  }
+  
+  .toolbar_logo {
+    margin-left: 15%;
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .toolbar_logo {
+    display: none;
+  }
+
+  .toolbar_navigation-items li {
+    padding: 0 0.75rem;
+  }
+
+  .toolbar {
+    height: 70px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .toggle-btn {
+    display: none;
+  }
+}
+
+.spacer {
+  flex: 1;
+}

@@ -1,0 +1,63 @@
+{
+    "Settings": "Settings",
+    "Language": "Language",
+    "Notifications": "Notifications",
+    "UMeetLogo": "UMeet Logo",
+    "Profile": "Profile",
+    "MySchedule": "My Schedule",
+    "Friends": "Friends",
+    "Groups": "Groups",
+    "MyFriends": "My Friends",
+    "AddFriends": "Add Friends",
+    "Add": "Add",
+    "Added": "Added",
+
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "daysList": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "days": ["U", "M", "Tu", "W", "Th", "F", "S"],
+    "Today": "Today",
+    
+    "AddFriend": "Add Friend",
+    "CreateGroup": "Create Group",
+    "CreateEvent": "Create Event",
+
+    "Search": "Search",
+
+    "NewGroup": "New Group",
+    "Name": "Name",
+    "GroupName": "Name of the group",
+    "Members": "Members",
+    "Save": "Save",
+
+    "Personalize": "Personalize",
+    "FistDay": "First Day",
+    "TextSize": "Select Text Size",
+    "TextColor": "Select Text Color",
+
+    "EventName": "Event Name *",
+    "Location": "Location",
+    "Link": "Link",
+    "PrivateEvent": "Private Event",
+    "MinutesBefore": "minutes before",
+    "HoursBefore": "hours before",
+    "DaysBefore": "days before",
+    "StartTime": "Start Time *",
+    "EndTime": "End Time *",
+    "Create": "Create",
+
+    "Welcome": "Welcome",
+    "LinkWithBanner": "Link your Banner schedule",
+
+    "ScheduleCustomization": "Schedule Customization",
+    "FirstDay": "First Day",
+    "LastDay": "Last Day",
+    "StartHour": "Start Hour",
+    "EndHour": "End Hour",
+    "SelectTextSize": "Select Text Size",
+    "SelectTextColor": "Select Text Color",
+
+    "LoadMore": "Load More",
+
+    "NoResults": "No results found",
+    "404": "404 - Page not found"
+}

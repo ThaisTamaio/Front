@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+:root {
+  /* Color variables */
+  --yellow: #FFF75A; 
+  --black: #00272B; 
+  --cyan: #DBE9EE; 
+  --blue: #4A6FA5;
+  --gray: #E0DBDB;
+
+  /* Device size variables */
+  --mobile: 768px;
+  --tablet: 1024px;
+}
+
+body {
+  color: var(--black);
+  font-family: 'Jost', sans-serif;
+}
+
+.bordercell {
+  border: 0.5px solid black;
+}
+
+.lrbordercell {
+  border-left: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
+
+.upbordercell {
+  border-top: 0.5px solid black;
+}
+
+.downbordercell {
+  border-bottom: 0.5px solid black;
+}
+
+/* Fab: Floating Action Button */
+
+.rtf--ab {
+  background-color: var(--black);
+}
+
+.rtf--mb {
+  background-color: #0b749a;
+}
+
+.Content {
+  margin-top: -15px;
+}

@@ -1,0 +1,63 @@
+{
+    "Settings": "Configuración",
+    "Language": "Idioma",
+    "Notifications": "Notificaciones",
+    "UMeetLogo": "UMeet Logo",
+    "Profile": "Perfil",
+    "MySchedule": "Mi Horario",
+    "Friends": "Amigos",
+    "Groups": "Grupos",
+    "MyFriends": "Mis Amigos",
+    "AddFriends": "Agregar Amigos",
+    "Add": "Agregar",
+    "Added": "Agregado",
+
+    "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+    "daysList": ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"],
+    "days": ["D", "L", "M", "I", "J", "V", "S"],
+    "Today": "Hoy",
+
+    "AddFriend": "Agregar Amigo",
+    "CreateGroup": "Crear Grupo",
+    "CreateEvent": "Crear Evento",
+
+    "Search": "Buscar",
+
+    "NewGroup": "Nuevo Grupo",
+    "Name": "Nombre",
+    "GroupName": "Nombre del Grupo",
+    "Members": "Miembros",
+    "Save": "Guardar",
+
+    "Personalize": "Personalizar",
+    "FirstDay": "Primer Día",
+    "TextSize": "Selecciona el tamaño del texto",
+    "TextColor": "Selecciona el color del texto",
+
+    "EventName": "Nombre del Evento *",
+    "Location": "Ubicación",
+    "Link": "Enlace",
+    "PrivateEvent": "Evento Privado",
+    "MinutesBefore": "minutos antes",
+    "HoursBefore": "horas antes",
+    "DaysBefore": "días antes",
+    "StartTime": "Hora Inicial *",
+    "EndTime": "Hora Final *",
+    "Create": "Crear",
+
+    "Welcome": "Bienvenid@",
+    "LinkWithBanner": "Vincular tu horario de Banner",
+
+    "ScheduleCustomization": "Personalización de Horario",
+    "FisrtDay": "Primer Día",
+    "LastDay": "Último Día",
+    "StartHour": "Hora de Inicio",
+    "EndHour": "Hora de Fin",
+    "SelectTextSize": "Seleccionar Tamaño de Texto",
+    "SelectTextColor": "Seleccionar Color del Texto",
+
+    "LoadMore": "Cargar más",
+
+    "NoResults": "No hay resultados",
+    "404": "404 - Página no encontrada"
+}
